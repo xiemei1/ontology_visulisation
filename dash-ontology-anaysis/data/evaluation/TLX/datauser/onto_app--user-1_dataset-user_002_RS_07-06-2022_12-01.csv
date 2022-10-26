@@ -1,0 +1,16 @@
+---NASA TLX V1.0.3 SINGLE TRIAL RATING SCALE ANSWERS---
+STUDY NAME:,onto
+STUDY GROUP:,app--user-1
+SUBJECT ID:,dataset-user
+TRIAL:,2
+TRIAL DATE TIME:,07-06-2022 12:01
+---DATA---
+PAIRWISE ASKED WITH TRIAL:,false
+PAIRWISE ANSWERS TO USE:,onto_app--user-1_dataset-user_001_PW_07-06-2022_11-59.csv
+RATING SCALE:,RAW RATING
+Mental Demand,15
+Physical Demand,20
+Temporal Demand,10
+Performance,5
+Effort,25
+Frustration,10

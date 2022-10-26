@@ -1,0 +1,11 @@
+﻿questions,app-user1,app-user2,average-app,TLX-average,,dataset-user1,dataset-user2,dataset-user3,average-dataset,TLX-average
+What is the topic1 about?,15,20,17.5,6,,15,31,18,21.33333333,11.33
+"Given one word 'government', which prevalent topic is the word ?",18,34,26,7.33,,41,84,44,56.33333333,16
+Which topic is the document 100 and what is it mainly about?,25,40,32.5,12.33,,70,70,65,68.33333333,11.67
+What are mainly keywords about red scatter?,16,22,19,11.33,,,,,,
+What are the main relations in document 50? describe it,13,29,21,32.67,,40,149,40,76.33333333,16
+What topic are the speeches given by Author 'Alex Lyon '?,17,26,21.5,7.67,,70,255,40,121.6666667,23.67
+What topics are those speeches given by the party ‘labor’?,55,20,37.5,12.33,,72,130,95,99,28.67
+What are main topic of the speech during 2000-2010?,30,37,33.5,15.67,,63,110,71,81.33333333,"22,33"
+what’s topic distribution is the document 8888? Explain how does it belong to a certain topic?,28,21,24.5,14.67,,77,99,45,73.66666667,27.67
+What is topic distribution about the certain docs that you are interested in?,40,30,35,17.33,,20,24,69,37.66666667,6.33

@@ -1,0 +1,3 @@
+visulisation: left panel shoule be cleared
+visulaisation: topic visulisation topic and mariginal topic distribution are overlapping.
+visulaistion:multiple visulisations, but small, can take window view
